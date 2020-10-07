@@ -1,0 +1,7 @@
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\LAB5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\LAB5\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\LAB5\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\LAB5\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\LAB5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\LAB5\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\LAB5\Lab5\Lab5\obj\Debug\Lab5.pdb
